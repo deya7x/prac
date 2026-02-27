@@ -1,5 +1,5 @@
 import os
 
-os=ubuntu
+os=mac
 print("Hello World!")
 wrong code
