@@ -1,3 +1,5 @@
 import datetime
 
-print("Python is wonderful")
+print("Python is beatiful")
+
+return 0
